@@ -11,7 +11,7 @@ export default {
 	baseImport: 'https://discordstyles.github.io/SoftX/SoftX.css',
 	addons: [
 		['src/addons/_radialglow.scss', 'dist/RadialGlow.css'],
-		['src/addons/_verticaluserarea.scss', 'dist/VerticalUserArea.css'],
-		['src/addons/_serverrings.scss', 'dist/ServerRings.css']
+		// ['src/addons/_verticaluserarea.scss', 'dist/VerticalUserArea.css'],
+		// ['src/addons/_serverrings.scss', 'dist/ServerRings.css']
 	]
 };
